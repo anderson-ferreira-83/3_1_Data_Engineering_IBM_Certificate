@@ -7,3 +7,7 @@ This Professional Certificate is for anyone who wants to develop job-ready skill
 By the end of this Professional Certificate, you will be able to explain and perform the key tasks required in a data engineering role. You will use the Python programming language and Linux/UNIX shell scripts to extract, transform and load (ETL) data. You will work with Relational Databases (RDBMS) and query data using SQL statements. You will use NoSQL databases and unstructured data. You will be introduced to Big Data and work with Big Data engines like Hadoop and Spark. You will gain experience with creating Data Warehouses and utilize Business Intelligence tools to analyze and extract insights.
 
 More details about the professional certificate here: [IBM Data Engineering Professional Certificate](https://www.coursera.org/learn/introduction-to-data-engineering)
+
+## Specialization Syllabus
+
+This professional certicate contain 13 courses, as follows below:
