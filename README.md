@@ -11,3 +11,19 @@ More details about the professional certificate here: [IBM Data Engineering Prof
 ## Specialization Syllabus
 
 This professional certicate contain 13 courses, as follows below:
+
+| Module | Access Topic | Link of Course |
+|:------:|:------------:|:--------------:|
+| 1      |              |                |
+| 2      |              |                |
+| 3      |              |                |
+| 4      |              |                |
+| 5      |              |                |
+| 6      |              |                |
+| 7      |              |                |
+| 8      |              |                |
+| 9      |              |                |
+| 10     |              |                |
+| 11     |              |                |
+| 12     |              |                |
+| 13     |              |                |
