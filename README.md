@@ -12,18 +12,18 @@ More details about the professional certificate here: [IBM Data Engineering Prof
 
 This professional certicate contain 13 courses, as follows below:
 
-| Module | Access Topic | Link of Course |
+| Module | Access Topic | Link of IBM |
 |:------:|:------------:|:--------------:|
-| 1      |              |                |
-| 2      |              |                |
-| 3      |              |                |
-| 4      |              |                |
-| 5      |              |                |
-| 6      |              |                |
-| 7      |              |                |
-| 8      |              |                |
-| 9      |              |                |
-| 10     |              |                |
-| 11     |              |                |
-| 12     |              |                |
-| 13     |              |                |
+| 1      | [Introduction to Data Engineering](shorturl.at/BLRX3)             |  [Introduction to Data Engineering]()              |
+| 2      | [Python for Data Science, AI & Development](shorturl.at/jTV56)             |  [Python for Data Science, AI & Development]()              |
+| 3      | [Python Project for Data Engineering](shorturl.at/fgzL1)             |  [Python Project for Data Engineering]()              |
+| 4      | [Introduction to Relational Databases (RDBMS)](shorturl.at/wJLT0)             |  [Introduction to Relational Databases (RDBMS)]()              |
+| 5      | [Databases and SQL for Data Science with Python](shorturl.at/celM8)             |  [Databases and SQL for Data Science with Python]()              |
+| 6      | [Hands-on Introduction to Linux Commands and Shell Scripting](shorturl.at/dFRUW)             |  [Hands-on Introduction to Linux Commands and Shell Scripting]()              |
+| 7      | [Relational Database Administration (DBA)](shorturl.at/bfgKP)             |  [Relational Database Administration (DBA)]()              |
+| 8      | [ETL and Data Pipelines with Shell, Airflow and Kafka](shorturl.at/bEQ23)             |  [ETL and Data Pipelines with Shell, Airflow and Kafka]()              |
+| 9      | [Getting Started with Data Warehousing and BI Analytics](shorturl.at/gqwAY)             |  [Getting Started with Data Warehousing and BI Analytics]()              |
+| 10     | [Introduction to NoSQL Databases](shorturl.at/acF39)            |   [Introduction to NoSQL Databases]()             |
+| 11     | [Introduction to Big Data with Spark and Hadoop](shorturl.at/gpNXY)             |  [Introduction to Big Data with Spark and Hadoop]()              |
+| 12     | [Data Engineering and Machine Learning using Spark](shorturl.at/achvW)             |  [Data Engineering and Machine Learning using Spark]()              |
+| 13     | [Data Engineering Capstone Project](shorturl.at/emtDU)             |  [Data Engineering Capstone Project]()              |
