@@ -12,7 +12,7 @@ More details and information about the professional certificate, you can accsses
 
 This professional certicate contain 13 courses, as follows below:
 
-| Module | Access Topic | Link of IBM |
+| Module | Access projects by Topics | Link of IBM |
 |:------:|:------------|:--------------|
 | 1      | [Introduction to Data Engineering](https://github.com/anderson-ferreira-83/3_1_Data_Engineering_IBM_Certificate/tree/main/Module_1_Intro_to_Data_Enginnering)             |  [Introduction to Data Engineering](https://www.coursera.org/learn/introduction-to-data-engineering/home/welcome)              |
 | 2      | [Python for Data Science, AI & Development](https://github.com/anderson-ferreira-83/3_1_Data_Engineering_IBM_Certificate/tree/main/Module_2_Python_Data_Science)             |  [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai/home/welcome)              |
